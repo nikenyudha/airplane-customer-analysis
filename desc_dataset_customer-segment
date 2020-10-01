@@ -13,5 +13,12 @@ Penjelasan tentang kolom kolom dari dataset customer segmentation.csv
 - SUM_YR_2 = votes price income
 - AVG_discount = avg discount rate
 - last_flight_date = last flight time
+- Point_NotFlight  = point tidak terbang 
+- Points_Sum = jumlah point yg terkumpul 
+- EXCHANGE_COUNT = jumlah pertukaran 
+- AVG_INTERVAL = rata rata interval
+- MAX_INTERVAL = maksimal interval
+- avg_discount = rata rata discount rate
+- last_to_end = ..... 
 
 
