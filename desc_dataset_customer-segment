@@ -1,0 +1,17 @@
+Penjelasan global tentang  dataset customer segmentation.csv
+FFP = frequent flyer pogram 
+secara global bisa dilihat dataset menjelaskan tentang kartu member FFP / loyalty customer airplane . 
+
+Penjelasan tentang kolom kolom dari dataset customer segmentation.csv
+- member no = nomor member
+- FFP_date = time join the meeting
+- FF_tier = tingkatan FFP
+- SEG_KM_SUM = total segment distance of the flight (KM)
+- flight_count = flight frequency
+- load_time = end time of the observation window
+- SUM_YR_1 = fare revenue
+- SUM_YR_2 = votes price income
+- AVG_discount = avg discount rate
+- last_flight_date = last flight time
+
+
