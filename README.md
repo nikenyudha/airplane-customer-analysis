@@ -53,6 +53,3 @@ The dataset contains airline customer information including membership details, 
 ## 👩‍💻 Author
 **Niken Larasati**
 **(Data Scientist & Writer)**
-
-* [GitHub](https://www.google.com/search?q=https://github.com/nikenyudha)
-* [LinkedIn](https://www.google.com/search?q=INSERT_YOUR_LINKEDIN_HERE)
