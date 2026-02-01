@@ -1,6 +1,0 @@
-goals 
-
-- how many segments are in this population?
-- describe the character of each segments
-- insight
-- recommendation 
